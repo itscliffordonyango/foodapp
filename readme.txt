@@ -61,15 +61,15 @@ GETTING STARTED
 -------------------------
 CONTRIBUTORS
 -------------------------
-• Product Manager: [Your Name]
-• Frontend Developer: [Dev Name]
-• Backend Developer: [Dev Name]
+• Product Manager: [Clifford Onyango]
+• Frontend Developer: [Anushkar Ghandi]
+• Backend Developer: [David Kim]
 
 -------------------------
 CONTACT US
 -------------------------
 For feedback, support, or contributions, reach out to:
-📧 Email: support@madishipoa.com
+📧 Email: cliffordonyangog@gmail.com
 📱 Instagram: @madishipoa
 🌐 Website: www.madishipoa.com
 
@@ -77,5 +77,5 @@ For feedback, support, or contributions, reach out to:
 COPYRIGHT & LICENSE
 -------------------------
 © 2025 Madishipoa. All rights reserved.  
-This project is for educational/demo purposes and not yet available for commercial use.
+This project is for demo purposes and not yet available for commercial use.
 
