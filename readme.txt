@@ -71,7 +71,7 @@ CONTACT US
 For feedback, support, or contributions, reach out to:
 📧 Email: cliffordonyangog@gmail.com
 📱 Instagram: @madishipoa
-🌐 Website: www.madishipoa.com
+🌐 Website: https://itscliffordonyango.github.io/foodapp/
 
 -------------------------
 COPYRIGHT & LICENSE
